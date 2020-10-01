@@ -1,0 +1,17 @@
+{
+  "phani": {
+    "name": "phani",
+    "phone": "7889490283",
+    "email": "abc@gmail.com"
+  },
+  "karthik": {
+    "name": "karthik",
+    "phone": "8874689932",
+    "email": "ghi@gmail.com"
+  },
+  "lakshman": {
+    "name": "lakshman",
+    "phone": "8997749303",
+    "email": "fgh@gmail.com"
+  }
+}
